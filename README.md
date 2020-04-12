@@ -1,8 +1,5 @@
- <!DOCTYPE html>
- <html lang="en">
+<html>
  <head>
-  <img src:"Yuserlogo.png" alt:"Yuser logo" width:500px>
- 
   <p> Marketing Software in Development. </p>
 <p> Browser add-on details will be available in the future. </p>
 
