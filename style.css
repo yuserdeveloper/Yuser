@@ -10,7 +10,7 @@ position: absolute;
 top: 0;
 left: 0;
 padding: 0 100px;
-background: #FFE599 ;
+background: rgb(0, 0, 0) ;
 width: 100%;
 box-sizing: border-box;
 }
@@ -49,7 +49,7 @@ header nav ul li a:hover,
 header nav ul li a.active 
 {
   color: #fff;
-  background: #FFE599;
+  background: rgb(0, 0, 0);
 }
 .menu-toggle
 {
