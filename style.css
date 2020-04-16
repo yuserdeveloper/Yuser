@@ -10,7 +10,7 @@ position: absolute;
 top: 0;
 left: 0;
 padding: 0 300px;
-background: rgb(0, 0, 0) ;
+background: rgb(255,255,255) ;
 width: 100%;
 box-sizing: border-box;
 }
@@ -76,7 +76,7 @@ header nav ul li a.active
          position: absolute;
           width: 100%;
           height: 50px;
-          background: #333333;
+          background: #ffe599;
           top: 50px;
           left: -100%;
           transition: 0.5s;
