@@ -48,15 +48,15 @@ header nav ul li a
 header nav ul li a:hover,
 header nav ul li a.active 
 {
-  color: #fff;
-  background: rgb(0, 0, 0);
+  color: #000000;
+  background: #fff;
 }
 .menu-toggle
 {
     color:#fff;
     float: right;
     line-height: 50px;
-    font-size: 30px;
+    font-size: 40px;
     cursor: pointer;
     display: none;
 }
