@@ -3,27 +3,53 @@
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #FFE599;
+body>.content {
+    margin-top: 50px;
 }
-
-li {
-  float: left;
+.side .md > ol {
+    position: absolute;
+    top: 330px;
+    left: 10px;
+    font-size: 0;
 }
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+.side .md ol {
+    border: 1px solid;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    z-index: 1;
 }
-li a:hover {
-  background-color: #FFE599;
+.side .md ol li {
+    background: #f8f8f8;
+    cursor: default;
+    display: block;
+    font-size: small;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 6px;
+}
+.side .md > ol > li {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+.side .md > ol > li ~ li {
+    border-left: 1px solid;
+}
+.side .md ol ol {
+    position: absolute;
+    top: 100%;
+    left: -1px;
+    display: none;
+}
+.side .md ol li a,
+.side .md li:hover ol,
+.side .md li:active ol {
+    display: block;
+}
+.side .md ol li:hover {
+    background: #f0f0f0;
 }
 </ul>
 
