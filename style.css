@@ -3,6 +3,10 @@
      padding: 0px;
      box-sizing: border-box;
  }
+body {
+    background-color: #ffe599;
+    font-family: 'Work Sans', sans-serif;
+}
 nav {
     display: flex; 
     justify-content: space-around;
