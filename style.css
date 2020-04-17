@@ -16,7 +16,7 @@ main {
 }
 .introduction {
     flex: 1;
-    min-height: 80vh;
+    height: 40vh;
 }
 .intro-text {
     align-items: right;
