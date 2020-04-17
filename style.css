@@ -22,7 +22,8 @@ main {
     align-items: right;
 }
 .cover img {
-    height: 80vh;
+    width: 150px;
+    height: 350px;
     flex: 2;
 
 }
