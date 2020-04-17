@@ -93,10 +93,3 @@ nav {
 .toggle .line3{
     transform: rotate(45deg) translate(-3px,-3.5px); 
 }
-#logo{
-    position: absolute;
-    width: 320px;
-    height: 100px;
-    top: 60px;
-    left: -10px;
-}
