@@ -7,6 +7,12 @@ main {
     background-color: #ffe599;
     font-family: 'Work Sans', sans-serif;
 }
+.cover img{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+}
 nav {
     display: flex; 
     justify-content: space-around;
