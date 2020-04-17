@@ -18,12 +18,15 @@ main {
     flex: 1;
 }
 .intro-text {
-    font-size: 44px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 400;
     background: right;
 }
+.cover {
+    flex:1;
+}
 .cover img {
-    height: 60vh;
+    height: 80vh;
 
 }
 nav {
