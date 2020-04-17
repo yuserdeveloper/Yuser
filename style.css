@@ -34,7 +34,7 @@ nav {
 .burger{
     display: none; 
     cursor: pointer;
-    position: right 80px;
+    position: right;
 }
 .burger div{
      width: 30px;
