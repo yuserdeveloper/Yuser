@@ -21,12 +21,6 @@ main {
 .intro-text {
     align-items: right;
 }
-.cover img {
-    width: 250px;
-    height: 550px;
-    margin: auto;
-
-}
 nav {
     display: flex; 
     justify-content: space-around;
