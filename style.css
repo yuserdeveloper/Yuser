@@ -16,15 +16,14 @@ main {
 }
 .introduction {
     flex: 1;
+    min-height: 80vh;
 }
 .intro-text {
     align-items: right;
 }
-.cover {
-    flex:1;
-}
 .cover img {
     height: 80vh;
+    flex: 1;
 
 }
 nav {
