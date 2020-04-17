@@ -14,6 +14,14 @@ main {
     min-height: 80vh;
     align-items: center;
 }
+.introduction {
+    flex: 1;
+}
+.intro-text {
+    font-size: 44px;
+    font-weight: 500;
+    background: right;
+}
 .cover img {
     height: 60vh;
 
