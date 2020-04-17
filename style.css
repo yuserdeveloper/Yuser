@@ -11,7 +11,7 @@ nav {
     display: flex; 
     justify-content: space-around;
     align-content: center ;
-    min-height: 8vh;
+    min-height: 5vh;
     background-color: #ffffff; 
     font-family: 'Work Sans', sans-serif;
 }
