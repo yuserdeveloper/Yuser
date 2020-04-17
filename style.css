@@ -6,7 +6,7 @@
 nav {
     display: flex;
     justify-content: space-around;
-    align-content: center;
+    align-content: left;
     min-height: 8vh;
     background-color: #ffffff; 
     font-family: 'Work Sans', sans-serif;
