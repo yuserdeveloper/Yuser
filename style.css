@@ -7,11 +7,16 @@ main {
     background-color: #ffe599;
     font-family: 'Work Sans', sans-serif;
 }
-.cover img{
+.presentation{
     display: flex;
     width: 90%;
     margin: auto;
     min-height: 80vh;
+    align-items: center;
+}
+.cover img {
+    height: 60vh;
+
 }
 nav {
     display: flex; 
