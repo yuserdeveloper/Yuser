@@ -20,6 +20,7 @@ main {
 }
 .intro-text {
     align-items: right;
+    font-size: 100px;
 }
 nav {
     display: flex; 
@@ -42,8 +43,7 @@ nav {
     justify-content: space-around;
     width: 20%;
     font-size: 20px;
-    align-content: center;
-    text-indent: -100px;
+    align-content: left;
 }
 .nav-links li{
      list-style: none; 
