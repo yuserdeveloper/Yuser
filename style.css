@@ -39,10 +39,11 @@ nav {
     }
 .nav-links{
     display: flex;
-    justify-content: left, space-around;
+    justify-content: space-around;
     width: 20%;
     font-size: 20px;
     align-content: left;
+    text-indent: 50px;
 }
 .nav-links li{
      list-style: none; 
