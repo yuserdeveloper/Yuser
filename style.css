@@ -27,7 +27,7 @@ nav {
     align-content: center;
     min-height: 5vh;
     background-color: #ffffff; 
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif
 }
 .logo {
     color: #000000;
@@ -36,6 +36,8 @@ nav {
     cursor: pointer;
     flex: 1;
     align-content: center;
+    max-width: 300px;
+    height:200px;
     }
 .nav-links{
     display: flex;
