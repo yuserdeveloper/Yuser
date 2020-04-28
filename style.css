@@ -4,7 +4,7 @@
      box-sizing: border-box;
  }
 main {
-    background-color: #ffe599;
+    background-color: #b2bfc2;
     font-family: 'Work Sans', sans-serif;
 }
 .presentation{
@@ -68,8 +68,8 @@ nav {
         width: 60%; 
     } 
     }
-
-@media screen and (max-width:768px) {
+/* smartphones */
+@media screen and (max-width:600px) {
     body{
         overflow-x: hidden;
     }
@@ -78,7 +78,7 @@ nav {
         right: -10px;
         height: 75vh;
         top: 15vh;
-        background-color: #ffe599;
+        background-color: #b2bfc2;
         display:flex;
         flex-direction: column;
         align-items: center;
