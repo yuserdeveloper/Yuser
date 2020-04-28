@@ -58,6 +58,7 @@ nav {
 .burger{
     display: none; 
     cursor: pointer;
+    position: absolute;
 }
 .burger div{
      width: 30px;
@@ -71,7 +72,7 @@ nav {
         width: 60%; 
     } 
     }
-/* smartphones */
+/* smart menu */
 @media screen and (max-width:600px) {
     body{
         overflow-x: hidden;
