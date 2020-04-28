@@ -36,8 +36,6 @@ nav {
     cursor: pointer;
     flex: 1;
     align-content: center;
-    max-width: 300px;
-    height:200px;
     }
 .nav-links{
     display: flex;
@@ -58,7 +56,6 @@ nav {
 .burger{
     display: none; 
     cursor: pointer;
-    position: absolute;
 }
 .burger div{
      width: 30px;
@@ -101,7 +98,31 @@ nav {
 .nav-active{
      transform: translateX(0%);
 }
- 
+@media only screen and (max-device-width: 480px) {
+    div#wrapper {
+        width: 400px;
+    }
+
+    div#header {
+        background-image: url(images/hero.png);
+        height: 93px;
+        position: relative;
+    }
+
+    div#header h1 {
+        font-size: 140%;
+    }
+
+    #content {
+        float: none;
+        width: 100%;
+    }
+
+    #navigation {
+        float:none;
+        width: auto;
+    }
+}
 @keyframes navLinkFade{
     from{
         opacity:0;
