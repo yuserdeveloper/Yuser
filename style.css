@@ -72,6 +72,7 @@ nav {
 @media screen and (max-width:600px) {
     body{
         overflow-x: hidden;
+        width: 100%;
     }
     .nav-links{
         position: absolute;
@@ -82,7 +83,7 @@ nav {
         display:flex;
         flex-direction: column;
         align-items: center;
-        width: 100%;
+        width: 30%;
         transform: translateX(100%);
         transition:  transform 0.5s ease-in;
     }
