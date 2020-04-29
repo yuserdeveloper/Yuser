@@ -5,14 +5,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #031321;
-    font-family: consolas;
+    background: #b2bfc2;
+    font-family: 'Work Sans', sans-serif;
   }
   a{
     position: relative;
     display: inline-block;
     padding: 15px 30px;
-    color: #2196f3;
+    color: #FFFFFF;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-decoration: none;
