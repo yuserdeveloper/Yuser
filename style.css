@@ -85,9 +85,9 @@ body{
   padding: 20px 0px;
 }
 .footer-social-icons {
-   width: 100%;
-    height: auto;
-     margin: auto;
+  width: 100%;
+  height: auto;
+  margin: auto;
 }
 .footer-social-icons ul{ 
   margin: 0px;
@@ -101,6 +101,24 @@ body{
    margin: 0px 10px;
    border-radius: 100%;
    background: #b2bfc2;
+}
+.footer-social-icons ul li a {
+  color: #272727;
+  font-size: 25px;
+}
+.footer-social-icons ul li a i {
+  line-height: 50px;
+}
+.footer-bottom {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 5px;
+}
+.footer-bottom p {
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  color: #ffffff;
 }
 .footer-main-div {
   bottom: 0;
