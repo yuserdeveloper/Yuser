@@ -52,7 +52,6 @@ nav {
     color: #000000;
     text-decoration: none;
     font-weight: bold;  
-    flex: 1;
 }
 .burger{
     display: none; 
