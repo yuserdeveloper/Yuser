@@ -12,7 +12,7 @@ body{
     position: relative;
     display: inline-block;
     padding: 15px 30px;
-    color: #FFFFFF;
+    color: #000000;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-decoration: none;
@@ -21,8 +21,8 @@ body{
     transition: 0.2s;
   }
   a:hover{
-    color: #696969;
-    background: #696969;
+    color: #000000;
+    background: #FFFFFF;
     box-shadow: 0 0 10px #696969, 0 0 40px #696969, 0 0 80px #696969;
     transition-delay: 1s;
   }
