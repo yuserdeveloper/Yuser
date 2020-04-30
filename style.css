@@ -6,7 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #89609e;
+    background: #679267;
     font-family: 'Work Sans', sans-serif;
   }
   a{
@@ -22,7 +22,7 @@ body{
     transition: 0.2s;
   }
   a:hover{
-    color: #89609e;
+    color: #679267;
     background: #000000;
     box-shadow: 0 0 10px #696969, 0 0 40px #696969, 0 0 80px #696969;
     transition-delay: 1s;
@@ -90,6 +90,9 @@ body{
 .footer-social-icons {
   width: 100%;
   height: auto;
+  margin: auto;
+  align-items: center;
+  display: flex;
 }
 .footer-social-icons ul{ 
   margin: 0px;
@@ -97,7 +100,7 @@ body{
   text-align: center;  
 }
 .footer-social-icons ul li a {
-  color: #89609e;
+  color: #679267;
   font-size: 25px;
   align-items: center;
 }
@@ -114,7 +117,7 @@ body{
 .footer-bottom p {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
-  color: #89609e;
+  color: #679267;
   font-size: 10px;
 }
 .footer-main-div {
