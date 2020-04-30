@@ -22,7 +22,7 @@ body{
     transition: 0.2s;
   }
   a:hover{
-    color: #ffffff;
+    color: #fa8072;
     background: #000000;
     box-shadow: 0 0 10px #696969, 0 0 40px #696969, 0 0 80px #696969;
     transition-delay: 1s;
@@ -91,12 +91,17 @@ body{
   width: 100%;
   height: auto;
   margin: auto;
+  align-items: center;
+}
+.footer-social-icons ul{ 
+  margin: 0px;
+  padding:  0px;
+  text-align: center;  
 }
 .footer-social-icons ul li a {
   color: #fa8072;
   font-size: 25px;
   align-items: center;
-
 }
 .footer-social-icons ul li a i {
   line-height: 50px;
