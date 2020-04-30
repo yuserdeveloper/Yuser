@@ -85,7 +85,7 @@ body{
   height: auto;
   margin: auto;
   background: #272727;
-  padding: 15px 0px;
+  padding: 0px 0px;
 }
 .footer-social-icons {
   width: 100%;
@@ -95,7 +95,7 @@ body{
 }
 .footer-social-icons ul{ 
   margin: 0px;
-  padding:  0px;
+  padding: 0px;
   text-align: center;  
 }
 .footer-social-icons ul li a {
