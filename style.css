@@ -94,15 +94,17 @@ body{
   align-items: center;
 }
 .footer-social-icons ul{ 
+  margin: 0px;
+  padding:  0px;
   text-align: center;  
 }
 .footer-social-icons ul li a {
-  color: #FADA5E;
+  color: #89609e;
   font-size: 25px;
   align-items: center;
 }
 .footer-social-icons ul li a i {
-  line-height: 50px;
+  line-height: 25px;
 }
 .footer-bottom {
   width: 100%;
@@ -113,7 +115,7 @@ body{
 .footer-bottom p {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
-  color: #FADA5E;
+  color: #89609e;
   font-size: 10px;
 }
 .footer-main-div {
