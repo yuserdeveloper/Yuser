@@ -99,6 +99,7 @@ body{
 .footer-social-icons ul li a {
   color: #b2bfc2;
   font-size: 25px;
+  text-align: center;
 }
 .footer-social-icons ul li a i {
   line-height: 50px;
