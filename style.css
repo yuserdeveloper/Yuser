@@ -96,23 +96,9 @@ body{
   padding:  0px;
   text-align: center;  
 }
-.footer-social-icons ul li {
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  margin: 0px 10px;
-  border-radius: 100%;
-  background: #b2bfc2;
-}
 .footer-social-icons ul li a {
-  color: #272727;
+  color: #b2bfc2;
   font-size: 25px;
-}
-.i {
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  margin: 0px 10px;
 }
 .footer-social-icons ul li a i {
   line-height: 50px;
