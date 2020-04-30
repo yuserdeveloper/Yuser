@@ -95,8 +95,6 @@ body{
   display: flex;
 }
 .footer-social-icons ul{ 
-  margin: 0px;
-  padding: 0px;
   text-align: center;  
 }
 .footer-social-icons ul li a {
