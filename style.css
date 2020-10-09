@@ -19,7 +19,7 @@ body{
     text-decoration: none;
     font-size: 24px;
     overflow: hidden;
-    transition: 0.2s;
+    transition: 0.4s;
   }
   a:hover{
     color: #679267;
@@ -96,11 +96,6 @@ body{
 }
 .footer-social-icons ul{ 
   text-align: center;  
-}
-.footer-social-icons ul li a {
-  color: #679267;
-  font-size: 25px;
-  align-items: center;
 }
 .footer-social-icons ul li a i {
   line-height: 25px;
