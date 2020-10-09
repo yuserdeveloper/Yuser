@@ -80,12 +80,20 @@ body{
   }
 
 /* footer */
+.footer-main-div {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background: #272727;
+  padding: 15px 0px;
+}
 /* designed text */
 .footer-bottom {
   width: 100%;
   height: auto;
   margin: auto;
   padding: 5px;
+  align-items: center;
 }
 .footer-bottom p {
   font-family: 'Work Sans', sans-serif;
