@@ -87,6 +87,12 @@ body{
   background: #272727;
   padding: 15px 0px;
 }
+.footer-social-icons ul{ 
+  text-align: center;  
+}
+.footer-social-icons ul li a i {
+  line-height: 25px;
+}
 /* designed text */
 .footer-bottom {
   width: 100%;
