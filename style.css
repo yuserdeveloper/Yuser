@@ -92,13 +92,11 @@ body{
   height: auto;
   margin: auto;
   align-items: center;
-  display: flex;
 }
 .footer-social-icons ul{ 
   text-align: center;  
 }
 .footer-social-icons ul li a {
-  color: #679267;
   font-size: 25px;
   align-items: center;
 }
