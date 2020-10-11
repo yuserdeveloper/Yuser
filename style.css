@@ -90,11 +90,7 @@ body{
 .footer-bottom p {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
-  color: #ffff;
+  color: #679276;
   font-size: 10px;
   display: flex;
-}
-.footer-bottom:hover{
-  color: #679267;
-  background: #000000;
 }
