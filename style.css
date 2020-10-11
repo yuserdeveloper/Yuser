@@ -80,18 +80,6 @@ body{
   }
 
 /* footer */
-.footer-bottom {
-  width: 100%;
-  height: auto;
-  margin: auto;
-  background: #679267;
-  padding: 15px 0px;
-}
-.footer-bottom {
-  color: #679267;
-  font-size: 25px;
-  align-items: center;
-}
 /* designed text */
 .footer-bottom {
   width: 100%;
