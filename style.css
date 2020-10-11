@@ -113,6 +113,7 @@ body{
 .footer-bottom p {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
+  align-items: center;
   color: #ffff;
   font-size: 10px;
   display: flex;
