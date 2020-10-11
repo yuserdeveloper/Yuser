@@ -80,3 +80,29 @@ body{
   }
 
 /* footer */
+.footer-bottom {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background: #679267;
+  padding: 15px 0px;
+}
+.footer-bottom {
+  color: #679267;
+  font-size: 25px;
+  align-items: center;
+}
+/* designed text */
+.footer-bottom {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 5px;
+}
+.footer-bottom p {
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  color: #ffff;
+  font-size: 10px;
+  display: flex;
+}
