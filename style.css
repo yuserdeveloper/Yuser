@@ -3,7 +3,6 @@ body{
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
     align-items: center;
     min-height: 100vh;
     background: #eee5e5;
@@ -79,7 +78,7 @@ body{
     transition-delay: 0.75s;
   }
 
-/* footer */
+/* header */
 .header {
   padding: 60px;
   color: #000000;
