@@ -80,9 +80,9 @@ body{
 
 /* header */
 .header {
-  padding: 30px;
+  padding: 90px;
   color: #000000;
-  font-size: 60px;
+  font-size: 30px;
   font-family: 'Work Sans', sans-serif;
   letter-spacing: 1.5px;
 }
