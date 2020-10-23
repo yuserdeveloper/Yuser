@@ -22,7 +22,7 @@ body{
     transition: 0.2s;
   }
   a:hover{
-    color: #679267;
+    color: #ffffff;
     background: #000000;
     box-shadow: 0 0 10px #696969, 0 0 40px #696969, 0 0 80px #696969;
     transition-delay: 1s;
