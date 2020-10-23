@@ -4,6 +4,7 @@ body{
     padding: 0;
     display: flex;
     justify-content: center;
+    align-items: center;
     min-height: 100vh;
     background: #eee5e5;
     font-family: 'Work Sans', sans-serif;
@@ -13,7 +14,6 @@ body{
     display: inline-block;
     padding: 15px 30px;
     color: #000000;
-    text-transform: uppercase;
     letter-spacing: 4px;
     text-decoration: none;
     font-size: 24px;
