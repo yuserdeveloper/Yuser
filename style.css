@@ -21,14 +21,10 @@ body{
     transition: 0.2s;
   }
   a:hover{
-    color: #771515;
+    color: #eee5e5;
     background: #000000;
     box-shadow: 0 0 10px #000000, 0 0 40px #000000, 0 0 80px #000000;
     transition-delay: 1s;
-  }
-  a span{
-    position: absolute;
-    display: block;
   }
 
 /* header */
