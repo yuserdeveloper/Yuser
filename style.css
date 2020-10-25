@@ -27,7 +27,6 @@ body{
     transition-delay: 1s;
   }
   a span{
-    position: absolute;
     display: block;
   }
 
